@@ -1,0 +1,10 @@
+diff a/src/pages/intro.js b/src/pages/intro.js	(rejected hunks)
+@@ -3,7 +3,7 @@
+ function Intro() {
+     return (
+         <>
+
++            <h1>Boca Murcha 5</h1>
+         </>
+     );
+ }
