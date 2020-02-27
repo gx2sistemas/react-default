@@ -3,7 +3,7 @@ import React from 'react';
 function Intro() {
     return (
         <>
-            <h1>Hello React Boca Murcha</h1>
+            <h1>Boca Murcha</h1>
         </>
     );
 }
